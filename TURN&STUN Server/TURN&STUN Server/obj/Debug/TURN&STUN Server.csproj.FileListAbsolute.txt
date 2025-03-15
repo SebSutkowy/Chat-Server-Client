@@ -1,0 +1,10 @@
+C:\Users\GGBes\source\repos\TURN&STUN Server\TURN&STUN Server\obj\Debug\TURN&STUN Server.csproj.AssemblyReference.cache
+C:\Users\GGBes\source\repos\TURN&STUN Server\TURN&STUN Server\obj\Debug\TURN_STUN_Server.Properties.Resources.resources
+C:\Users\GGBes\source\repos\TURN&STUN Server\TURN&STUN Server\obj\Debug\TURN&STUN Server.csproj.GenerateResource.cache
+C:\Users\GGBes\source\repos\TURN&STUN Server\TURN&STUN Server\obj\Debug\TURN&STUN Server.csproj.CoreCompileInputs.cache
+C:\Users\GGBes\source\repos\TURN&STUN Server\TURN&STUN Server\bin\Debug\TURN&STUN Server.exe.config
+C:\Users\GGBes\source\repos\TURN&STUN Server\TURN&STUN Server\bin\Debug\TURN&STUN Server.exe
+C:\Users\GGBes\source\repos\TURN&STUN Server\TURN&STUN Server\bin\Debug\TURN&STUN Server.pdb
+C:\Users\GGBes\source\repos\TURN&STUN Server\TURN&STUN Server\obj\Debug\TURN_STUN_Server.Form1.resources
+C:\Users\GGBes\source\repos\TURN&STUN Server\TURN&STUN Server\obj\Debug\TURN&STUN Server.exe
+C:\Users\GGBes\source\repos\TURN&STUN Server\TURN&STUN Server\obj\Debug\TURN&STUN Server.pdb
