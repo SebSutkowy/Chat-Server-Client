@@ -1,0 +1,10 @@
+C:\Users\GGBes\source\repos\Chat Server Client\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\GGBes\source\repos\Chat Server Client\Server\obj\Debug\Server.Form1.resources
+C:\Users\GGBes\source\repos\Chat Server Client\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\GGBes\source\repos\Chat Server Client\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\GGBes\source\repos\Chat Server Client\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\GGBes\source\repos\Chat Server Client\Server\bin\Debug\Server.exe.config
+C:\Users\GGBes\source\repos\Chat Server Client\Server\bin\Debug\Server.exe
+C:\Users\GGBes\source\repos\Chat Server Client\Server\bin\Debug\Server.pdb
+C:\Users\GGBes\source\repos\Chat Server Client\Server\obj\Debug\Server.exe
+C:\Users\GGBes\source\repos\Chat Server Client\Server\obj\Debug\Server.pdb
