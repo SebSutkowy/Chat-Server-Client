@@ -155,15 +155,31 @@ namespace TURN_STUN_Server
         {
             try
             {
-                string turnServerIP = "relay.backups.cz";  // Free TURN server
+                string turnServerDomain = "relay.backups.cz"; // Free TURN Server
+                IPAddress[] addresses = Dns.GetHostAddresses(turnServerDomain); 
+                
+                if(addresses.Length == 0)
+                {
+                    Log("❌ Failed to resolve TURN server domain. ");
+                    return;
+                }
+
+                IPAddress turnServerIP = addresses[0];
+
+                Log($"🌍 Turn Server Resolved: {turnServerIP}");
                 int turnPort = 3478;
 
-                IPEndPoint turnEndPoint = new IPEndPoint(IPAddress.Parse(turnServerIP), turnPort);
+                Log("Y");
+                IPEndPoint turnEndPoint = new IPEndPoint(turnServerIP, turnPort);
+                Log("Z");
                 UdpClient turnClient = new UdpClient();
+                Log("A");
 
                 byte[] sendData = Encoding.UTF8.GetBytes("[TURN] " + message);
+                Log("B");
                 turnClient.Send(sendData, sendData.Length, turnEndPoint);
                 Log("🔄 Sent via TURN server.");
+                turnClient.Close();
             }
             catch (Exception ex)
             {
